@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body{
+  nav-index: #6385b0;
+
+  text-align: center;
+
+}
+
+body{
+  #dogsimg{
+    width: 60vw;
+
+    #paragraph{
+      text-align: center;
+    }
+
+    #dog1{
+      text-decoration-color:#714aa1 ;
+
+      
+    }
+}
+  
+
+/* Add selectors to make the website look like the following: https://726ccf0a-6b5b-49e1-b58b-2ff592f02da7-00-33tjtum5lnyz8.teams.replit.dev/ */
+/* Hints in the README */
+
